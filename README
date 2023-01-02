@@ -1,3 +1,5 @@
 Machine learning project
 
-Goal : Gunshot detection using a convolutional neural network
+Goal : Gunshot detection using a convolutional neural network.
+
+Update : At the moment, I am using a support vector classification algorithm instead of a convolutional neural network. I am working on the CNN implementation.
